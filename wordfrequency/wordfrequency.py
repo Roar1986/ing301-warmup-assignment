@@ -14,6 +14,7 @@ def read_file(file_name):
     """
     Denne funksjonen får et filnavn som argument og skal gi
     tilbake en liste av tekststrenger som representerer linjene i filen.
+    litta endring for test
     """
     # Tips: kanksje "open"-funksjonen kunne være nyttig her: https://docs.python.org/3/library/functions.html#open
     return NotImplemented  # TODO: Du må erstatte denne linjen
